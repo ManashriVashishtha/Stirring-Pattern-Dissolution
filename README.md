@@ -10,10 +10,10 @@ ________________________________
 - **Solvent:** Water at room temperature (30.8 degrees Celsius)
 - **Quantities Tested:** 6g and 11g (salt), 140 ml (water)
 - **Patterns Studied:**
-  - Clockwise throughout
-  - Change direction once or twice
-  - Constant Direction Change (Clock–Anti–Clock…)
-  - Back and Forth Stirring
+  - Clockwise throughout [UNI]
+  - Change direction once or twice [SWITCH]
+  - Constant Direction Change (Clock–Anti–Clock…) [MULTI]
+  - Back and Forth Stirring [LINE]
 ________________________________
 ## Data Collection
 I performed:
@@ -26,8 +26,8 @@ ________________________________
 File: Purpose  
 salt_dissolution_data.csv : Raw data of collected readings from the experiment  
 dissolution_data_analysis.m : MATLAB script for data analysis and plotting of graphs  
-6gram_Time_per_pattern : Graph of patterns vs time for 6g trials  
-11gram_Time_per_pattern : Graph of patterns vs time for 6g trials
+TimeVsPattern_6gram : Graph of patterns vs time for 6g trials  
+TimeVsPattern_11gram : Graph of patterns vs time for 11g trials
 ________________________________
 ## Key Observations (and learning)
 
